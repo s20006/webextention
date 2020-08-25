@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+h1.cll {
+	padding: 0.5em;
+	color: #010101;
+	background: #96c2fc;
+	border-bottom: solid 3px #7851b6;
+}
+
+h2.cll {
+	padding: 0.25em 0.3em;
+	color: #020202;
+	background: transparent;
+	border-left: solid 5px #7851b6;
+}
+
+h3.cll {
+    color: #010101;
+}
+
+hr {
+	border-top: 3px solid #7851b6;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+  
+#cs-01 .com000 {
+        overflow: hidden;
+}
+
+#cs-01 .im00 {
+	margin: 8px 0 8px 8px;
+	border: 1px solid #ccc;
+	padding: 8px;
+	width: 300px;
+}
+
+#cs-01 .im01 {
+	float: left;
+	margin: 8px 0 8px 8px;
+	border: 1px solid #ccc;
+	padding: 8px;
+	width: 300px;
+}
