@@ -1,7 +1,7 @@
 webextention  
 
 - chapter01
-    [「Windows環境でHTMLを作ってみよう」(chapter01/ch01-firsthtml-win.html)]
+    「[Windows環境でHTMLを作ってみよう](chapter01/ch01-firsthtml-win.html)」
 - chapter02
     「Linux環境でHTMLを作ってみよう」
 - chapter03
